@@ -11,6 +11,10 @@
     "icon": "default",
     "runtime": "LUAJIT2.1",
     "framework": "love11.3",
-    "dependencies": {},
+    "dependencies": {
+        "Placeholder-Package-3": {
+            "latest": true
+        }
+    },
     "documentation": ""
 }
