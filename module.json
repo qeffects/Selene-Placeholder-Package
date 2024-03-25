@@ -9,12 +9,14 @@
     "version": "0.0.1",
     "description": "Placeholder package",
     "icon": "default",
-    "runtime": "LUAJIT2.1",
-    "framework": "love11.3",
+    "runtime": "Luajit2.1",
+    "frameworks": ["love11"],
     "dependencies": {
         "Placeholder-Package-3": {
             "latest": true
         }
     },
-    "documentation": ""
+    "documentation": "",
+    "website": "",
+    "github": ""
 }
